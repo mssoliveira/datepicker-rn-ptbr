@@ -13,10 +13,10 @@
   "homepage": "https://hosseinshabani.github.io/react-native-modern-datepicker/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mssoliveira/rn-modern-datepicker.git"
+    "url": "https://github.com/mssoliveira/datepicker-rn-ptbr"
   },
   "bugs": {
-    "url": "https://github.com/mssoliveira/rn-modern-datepicker/issues"
+    "url": "https://github.com/mssoliveira/datepicker-rn-ptbr/issues"
   },
   "license": "MIT",
   "keywords": [
